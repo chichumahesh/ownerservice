@@ -97,7 +97,7 @@ public class OwnerserviceApplication implements CommandLineRunner {
 
         String output = objectMapper.writeValueAsString(owners);
 
-        System.out.println(output);
+      //  System.out.println(output);
 
     }
 }
